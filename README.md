@@ -40,7 +40,6 @@ smart-vehicle-anti-theft-system/
 │       ├── script.js
 │       └── style.css
 ├── docs/
-│   ├── Report.pdf
 │   └── Poster.jpg
 ├── LICENSE
 └── README.md
