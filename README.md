@@ -66,7 +66,12 @@ smart-vehicle-anti-theft-system/
 
 ## Demo
 
-See `docs/Report.pdf` and `docs/Poster.jpg` for the system architecture, wiring diagram, and test results. A separate demo video was recorded during development but isn't included in this repository due to its file size.
+
+
+https://github.com/user-attachments/assets/dd10b1b0-0519-415a-853c-407a4b04d97f
+
+
+
 
 ## Future Improvements
 
